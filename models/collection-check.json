@@ -1,0 +1,59 @@
+{
+  "Brocade_X6-8": {
+    "slicing_success": true,
+    "printer": "Bambu Lab P1S 0.4 mm",
+    "height_mm": 100,
+    "layer_height_mm": 0.2,
+    "wall_loops": 2,
+    "infill_percent": 15,
+    "manual_pauses": 1,
+    "pause_before_layer": 22,
+    "automatic_filament_changes": 0,
+    "estimated_seconds": 11449.9619140625,
+    "estimated_grams": 106.0966567993164,
+    "stl_sha256": "39c4acbb0c38699cfac481a0f0e12625542029c79e42136b5e2f55b97d5ec882",
+    "physical_test_measurements_available": false,
+    "physical_print_photo_available": true
+  },
+  "IBM_SVC_SV1_Cluster": {
+    "slicing_success": true,
+    "height_mm": 57.20000076293945,
+    "manual_pauses": 1,
+    "pause_before_layer": 22,
+    "estimated_minutes": 207,
+    "estimated_grams": 143.5,
+    "stl_sha256": "30a4439a6087cffc4581d4656e1fabdb06fe51fc44683c7047372f2426c0eea3"
+  },
+  "IBM_SVC_SV1_SingleNode": {
+    "slicing_success": true,
+    "height_mm": 30.200000762939453,
+    "manual_pauses": 1,
+    "pause_before_layer": 22,
+    "estimated_minutes": 132,
+    "estimated_grams": 92.7,
+    "stl_sha256": "e8505e9f91c83175bb44e7d026e3fc387fb0c549899427d13df3d864cb2785e1"
+  },
+  "IBM_SVC_SV2_SingleNode": {
+    "slicing_success": true,
+    "height_mm": 30.200000762939453,
+    "manual_pauses": 1,
+    "pause_before_layer": 22,
+    "estimated_minutes": 132,
+    "estimated_grams": 93.5,
+    "stl_sha256": "72c6197357a1c6a16d2df90c978264905796a3f3820342409ee9c1432c8966de"
+  },
+  "Dell_Compellent_SC8000": {
+    "slicing_success": true,
+    "height_mm": 30.200000762939453,
+    "manual_pauses": 1,
+    "pause_before_layer": 22,
+    "estimated_minutes": 135,
+    "estimated_grams": 94.8,
+    "stl_sha256": "54cc23032d2e0959a5c447f446e33d55a4a23cc48ae53a73ebf518052e608481"
+  },
+  "photo_evidence": {
+    "X6-8_and_SV1": "images/photos/datacenter-display-models.jpg",
+    "SV1_assembled_with_light": "images/photos/ibm-svc-sv1-illuminated-display.jpg",
+    "measured_fit_tolerances_documented": false
+  }
+}

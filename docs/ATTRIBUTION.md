@@ -1,5 +1,21 @@
 # Herkunft und Lizenzumfang
 
+Die Sammlung umfasst Brocade X6-8, IBM SVC SV1 als Einzelgerät und Cluster,
+IBM SVC SV2 sowie Dell Compellent SC8000. Die beiden Originalfotos in
+`images/photos` wurden vom Nutzer ausdrücklich zur Veröffentlichung
+bereitgestellt; sie sind keine übernommenen Herstellerfotos und werden
+nicht automatisch unter Apache-2.0 gestellt.
+
+Der Nutzer bestätigte als Originalvorlage für das Porsche-/Layered-Car-Display
+diesen [Ständer von ShapeShift 3D Creations](https://makerworld.com/de/models/1232070-led-light-display-stand-for-layered-car-art-prints#profileId-1250999).
+Der Link bezeichnet den beleuchteten Ständer, kein bestimmtes Porsche-Fahrzeug.
+
+Weitere Gestaltungsreferenzen:
+- [IBM SVC SV1 Frontreferenz](https://covenco.com/shop/server-2u/ibm-2145-sv1/)
+- [IBM SVC SV2 Systemübersicht](https://www.ibm.com/docs/en/sanvolumecontroller/9.1.0?topic=sa2-system-overview)
+- [Dell SC8000 technische Daten](https://www.dell.com/support/kbdoc/en-us/000146869/dell-emc-sc8000-compellent-technical-specifications)
+- [Dell SC8000 Frontreferenz](https://itinstock.com/dell-compellent-sc8000-2x-six-core-e5-2640-25ghz-64gb-ram-2u-storage-controller-77341-p.asp)
+
 ## Eigene Beiträge
 
 Die parametrische X6-8-Geometrie, die mathematisch konstruierte Einsatzplatte, Layout, Quellcode, Dokumentation und daraus generierte STL/3MF werden unter Apache-2.0 bereitgestellt. Rechte an Drittanbieter-Marken oder Vorlagen werden dadurch nicht eingeräumt.

@@ -1,0 +1,18 @@
+[
+  {
+    "file": "datacenter-display-models.jpg",
+    "sha256": "6b6a0b00d0327f7510cd8cdd41f2f6163e1f038c2a3841dfa600098d4577f822",
+    "gps_removed": true,
+    "metadata_removed": true,
+    "orientation_preserved": true,
+    "pixels_unchanged": true
+  },
+  {
+    "file": "ibm-svc-sv1-illuminated-display.jpg",
+    "sha256": "8d672bbf121a909d622a571596e110f6433617260939722dc9d1b8ff81244621",
+    "gps_removed": true,
+    "metadata_removed": true,
+    "orientation_preserved": true,
+    "pixels_unchanged": true
+  }
+]

@@ -1,9 +1,13 @@
-Brocade X6-8 Display
+Brocade, IBM SVC and Dell Datacenter Displays
 Copyright 2026 fabianbluemel
 
 Original model geometry, source and documentation: Apache License 2.0.
 Brocade, Broadcom and Bambu Lab are trademarks of their respective owners.
 This is an unofficial decorative model, not an endorsed product.
+IBM, Dell and Porsche names are trademarks of their respective owners.
+The two user-supplied original JPEGs in images/photos are authorized for
+publication, but are excluded from Apache-2.0. Photo rights remain with
+their respective owners; see images/photos/README.md.
 The independently authored insert matches the standard display stand interface.
 Third-party frame geometry and reference photographs are not distributed.
 Text outlines use DejaVu Sans (Bitstream Vera / DejaVu font license);

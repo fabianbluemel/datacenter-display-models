@@ -19,6 +19,6 @@ with zipfile.ZipFile(ROOT/'models/Brocade_X6-8_P1S.3mf') as z:
         content=z.read(n).decode()
         assert 'C:\\' not in content and 'C:/' not in content and 'IMG_09' not in content
 plate=r['sliced_plates'][0]
-report=dict(slicing_success=True,printer='Bambu Lab P1S 0.4 mm',height_mm=100,layer_height_mm=.2,wall_loops=2,infill_percent=15,manual_pauses=1,pause_before_layer=22,automatic_filament_changes=0,estimated_seconds=plate['total_predication'],estimated_grams=sum(f['total_used_g'] for f in plate['filaments']),physical_print_tested=False,stl_sha256=hashlib.sha256((ROOT/'models/Brocade_X6-8_100mm.stl').read_bytes()).hexdigest())
+report=dict(slicing_success=True,printer='Bambu Lab P1S 0.4 mm',height_mm=100,layer_height_mm=.2,wall_loops=2,infill_percent=15,manual_pauses=1,pause_before_layer=22,automatic_filament_changes=0,estimated_seconds=plate['total_predication'],estimated_grams=sum(f['total_used_g'] for f in plate['filaments']),physical_test_measurements_available=False,stl_sha256=hashlib.sha256((ROOT/'models/Brocade_X6-8_100mm.stl').read_bytes()).hexdigest())
 (ROOT/'models/slice-check.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
 print(json.dumps(report,indent=2))
