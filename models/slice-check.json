@@ -1,0 +1,15 @@
+{
+  "slicing_success": true,
+  "printer": "Bambu Lab P1S 0.4 mm",
+  "height_mm": 100,
+  "layer_height_mm": 0.2,
+  "wall_loops": 2,
+  "infill_percent": 15,
+  "manual_pauses": 1,
+  "pause_before_layer": 22,
+  "automatic_filament_changes": 0,
+  "estimated_seconds": 11449.9619140625,
+  "estimated_grams": 106.0966567993164,
+  "physical_print_tested": false,
+  "stl_sha256": "39c4acbb0c38699cfac481a0f0e12625542029c79e42136b5e2f55b97d5ec882"
+}

@@ -1,0 +1,11 @@
+{
+  "size_mm": [
+    163.39999389648438,
+    92.4000015258789,
+    100.0
+  ],
+  "watertight": true,
+  "winding_consistent": true,
+  "connected_components": 1,
+  "physical_print_tested": false
+}

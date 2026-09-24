@@ -1,0 +1,12 @@
+Brocade X6-8 Display
+Copyright 2026 fabianbluemel
+
+Original model geometry, source and documentation: Apache License 2.0.
+Brocade, Broadcom and Bambu Lab are trademarks of their respective owners.
+This is an unofficial decorative model, not an endorsed product.
+The independently authored insert matches the standard display stand interface.
+Third-party frame geometry and reference photographs are not distributed.
+Text outlines use DejaVu Sans (Bitstream Vera / DejaVu font license);
+fonts and Python dependencies are not bundled. See docs/ATTRIBUTION.md.
+The separate Bambu Studio preset export (third_party/bambu) and its embedded
+3MF settings retain their upstream AGPL-3.0 license; see the bundled license.
